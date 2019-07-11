@@ -15,7 +15,7 @@ var cookieParser = require('cookie-parser');
 
 var client_id = 'a49454982f90407a9f716b39b6ac54d8'; // Your client id
 var client_secret = '7301204e956c4f49bb88509d3bc66b3b'; // Your secret
-var redirect_uri = 'http://ServicesELB-900179338.us-east-2.elb.amazonaws.com:8081/callback'; // Your redirect uri
+var redirect_uri = 'http://Prueba-203942902.us-east-2.elb.amazonaws.com:8081/callback'; // Your redirect uri
 
 /**
  * Generates a random string containing numbers and letters
